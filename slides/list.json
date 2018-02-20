@@ -1,0 +1,15 @@
+[
+    "index.md",
+    "css-workshop.html",
+    {
+        "attr": {
+            "data-background": "resources/mug.png"
+        }
+    },
+    "css-is-hard.html",
+    {
+        "attr": {
+            "data-background": "http://www.stubbornella.org/content/wp-content/uploads/2009/02/punishment.jpg"
+        }
+    }
+]
